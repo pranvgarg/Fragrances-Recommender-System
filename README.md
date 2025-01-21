@@ -4,6 +4,14 @@
 ## Overview
 The **Fragrances Recommender System** is designed to provide personalized perfume recommendations based on customer preferences and fragrance reviews. It is tailored to assist businesses, such as Macy's, in enhancing customer engagement and improving satisfaction by delivering tailored suggestions.
 
+## Authors
+- Pranav Garg  
+- Ronak Goyal  
+- Utkarsh Garg  
+- Alexander Imhoff  
+- John Izzo  
+- Akash Barathan
+
 ## Features
 - **Personalized Recommendations**: Matches user-input attributes (e.g., "exotic") with fragrance reviews.
 - **Sentiment Analysis**: Analyzes reviews for sentiment (positive, negative, neutral).
@@ -42,10 +50,3 @@ Example: A customer visits a store, looking for an "exotic" fragrance. They inpu
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Authors
-- Pranav Garg  
-- Ronak Goyal  
-- Utkarsh Garg  
-- Alexander Imhoff  
-- John Izzo  
-- Akash Barathan
